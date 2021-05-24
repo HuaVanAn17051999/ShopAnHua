@@ -1,0 +1,18 @@
+2020-10-14 00:10:03,836 [1] INFO - Now listening on: http://localhost:5000
+2020-10-14 00:10:03,845 [1] INFO - Now listening on: https://localhost:5001
+2020-10-14 00:10:03,847 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-10-14 00:10:03,848 [1] INFO - Hosting environment: Development
+2020-10-14 00:10:03,850 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-10-14 00:10:13,163 [8] INFO - Running CreateAsync function in OrderAppService with params: 
+ Application.Contract.Model.Order.CreateOrderRequestModel
+2020-10-14 00:10:13,860 [9] INFO - CreateAsync successfully in OrderAppService with object Application.Contract.Model.Order.CreateOrderRequestModel.
+2020-10-14 00:10:13,886 [9] INFO - Request results of CreateAsync success
+2020-10-14 00:10:20,031 [4] INFO - Running CreateAsync function in OrderAppService with params: 
+ Application.Contract.Model.Order.CreateOrderRequestModel
+2020-10-14 00:10:20,051 [8] INFO - CreateAsync successfully in OrderAppService with object Application.Contract.Model.Order.CreateOrderRequestModel.
+2020-10-14 00:10:20,058 [8] INFO - Request results of CreateAsync success
+2020-10-14 00:10:39,223 [9] INFO - Running CreateAsync function in OrderAppService with params: 
+ Application.Contract.Model.Order.CreateOrderRequestModel
+2020-10-14 00:10:39,246 [4] INFO - CreateAsync successfully in OrderAppService with object Application.Contract.Model.Order.CreateOrderRequestModel.
+2020-10-14 00:10:39,252 [4] INFO - Request results of CreateAsync success
+2020-10-14 00:12:19,174 [2] INFO - Application is shutting down...

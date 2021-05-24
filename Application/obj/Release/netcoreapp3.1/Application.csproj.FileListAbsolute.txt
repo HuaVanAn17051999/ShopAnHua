@@ -1,0 +1,13 @@
+E:\.NET_CORE\ShopAnHua\Application\bin\Release\netcoreapp3.1\log4net.config
+E:\.NET_CORE\ShopAnHua\Application\bin\Release\netcoreapp3.1\Application.deps.json
+E:\.NET_CORE\ShopAnHua\Application\bin\Release\netcoreapp3.1\Application.runtimeconfig.json
+E:\.NET_CORE\ShopAnHua\Application\bin\Release\netcoreapp3.1\Application.runtimeconfig.dev.json
+E:\.NET_CORE\ShopAnHua\Application\bin\Release\netcoreapp3.1\Application.dll
+E:\.NET_CORE\ShopAnHua\Application\bin\Release\netcoreapp3.1\Application.pdb
+E:\.NET_CORE\ShopAnHua\Application\obj\Release\netcoreapp3.1\Application.csprojAssemblyReference.cache
+E:\.NET_CORE\ShopAnHua\Application\obj\Release\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+E:\.NET_CORE\ShopAnHua\Application\obj\Release\netcoreapp3.1\Application.AssemblyInfo.cs
+E:\.NET_CORE\ShopAnHua\Application\obj\Release\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+E:\.NET_CORE\ShopAnHua\Application\obj\Release\netcoreapp3.1\Application.dll
+E:\.NET_CORE\ShopAnHua\Application\obj\Release\netcoreapp3.1\Application.pdb
+E:\.NET_CORE\ShopAnHua\Application\obj\Release\netcoreapp3.1\Application.genruntimeconfig.cache

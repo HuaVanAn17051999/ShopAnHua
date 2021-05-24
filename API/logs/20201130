@@ -1,0 +1,7 @@
+2020-11-30 08:51:57,414 [1] INFO - Now listening on: https://localhost:5001
+2020-11-30 08:51:57,425 [1] INFO - Now listening on: http://localhost:5000
+2020-11-30 08:51:57,428 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-11-30 08:51:57,430 [1] INFO - Hosting environment: Development
+2020-11-30 08:51:57,432 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-11-30 08:52:23,473 [11] INFO - Request results of GetListAsync success
+2020-11-30 08:52:23,649 [12] INFO - Request results of GetListAsync success

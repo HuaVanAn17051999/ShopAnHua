@@ -1,0 +1,19 @@
+2020-11-11 19:22:53,840 [1] INFO - Now listening on: http://localhost:5000
+2020-11-11 19:22:53,851 [1] INFO - Now listening on: https://localhost:5001
+2020-11-11 19:22:53,854 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-11-11 19:22:53,856 [1] INFO - Hosting environment: Development
+2020-11-11 19:22:53,858 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-11-11 19:23:54,043 [15] WARN - Invalid password for user 5.
+2020-11-11 19:24:00,677 [4] WARN - Invalid password for user 5.
+2020-11-11 19:24:20,781 [4] WARN - Invalid password for user 5.
+2020-11-11 19:25:36,027 [15] WARN - Invalid password for user 6.
+2020-11-11 19:25:37,785 [14] WARN - Invalid password for user 6.
+2020-11-11 19:25:39,771 [8] WARN - Invalid password for user 6.
+2020-11-11 19:25:40,940 [10] WARN - Invalid password for user 6.
+2020-11-11 19:25:42,077 [10] WARN - Invalid password for user 6.
+2020-11-11 19:25:43,093 [10] WARN - Invalid password for user 6.
+2020-11-11 19:25:44,228 [9] WARN - Invalid password for user 6.
+2020-11-11 19:25:47,595 [14] WARN - Invalid password for user 6.
+2020-11-11 19:25:49,216 [15] WARN - Invalid password for user 6.
+2020-11-11 19:25:58,135 [8] WARN - Invalid password for user 6.
+2020-11-11 19:26:48,511 [10] WARN - Invalid password for user 6.

@@ -1,0 +1,13 @@
+2021-05-04 09:21:10,943 [1] INFO - Now listening on: http://0.0.0.0:5001
+2021-05-04 09:21:10,961 [1] INFO - Now listening on: http://0.0.0.0:5000
+2021-05-04 09:21:10,966 [1] INFO - Application started. Press Ctrl+C to shut down.
+2021-05-04 09:21:10,969 [1] INFO - Hosting environment: Development
+2021-05-04 09:21:10,974 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2021-05-04 09:21:18,135 [4] WARN - Failed to determine the https port for redirect.
+2021-05-04 09:21:18,236 [4] WARN - Failed to determine the https port for redirect.
+2021-05-04 09:21:40,939 [1] INFO - Now listening on: http://0.0.0.0:5001
+2021-05-04 09:21:40,970 [1] INFO - Now listening on: http://0.0.0.0:5000
+2021-05-04 09:21:40,975 [1] INFO - Application started. Press Ctrl+C to shut down.
+2021-05-04 09:21:40,999 [1] INFO - Hosting environment: Development
+2021-05-04 09:21:41,004 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2021-05-04 09:21:44,985 [2] INFO - Application is shutting down...

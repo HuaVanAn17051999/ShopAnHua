@@ -1,0 +1,66 @@
+2020-10-31 00:00:41,879 [16] INFO - Request results of GetListAsync success
+2020-10-31 00:01:48,710 [8] INFO - Request results of GetListAsync success
+2020-10-31 00:02:03,122 [10] INFO - Request results of GetListAsync success
+2020-10-31 00:03:09,621 [8] INFO - Request results of GetListAsync success
+2020-10-31 00:03:23,688 [17] INFO - Request results of GetListAsync success
+2020-10-31 00:04:07,154 [8] INFO - Request results of GetListAsync success
+2020-10-31 00:04:10,391 [14] INFO - Request results of GetListAsync success
+2020-10-31 00:04:36,576 [4] INFO - Request results of GetListAsync success
+2020-10-31 00:04:38,878 [14] INFO - Request results of GetListAsync success
+2020-10-31 00:07:51,507 [32] INFO - Request results of GetListAsync success
+2020-10-31 00:09:38,592 [4] INFO - Request results of GetListAsync success
+2020-10-31 00:10:48,822 [8] WARN - Error unprotecting the session cookie.
+System.Security.Cryptography.CryptographicException: The payload was invalid.
+   at Microsoft.AspNetCore.DataProtection.Cng.CbcAuthenticatedEncryptor.DecryptImpl(Byte* pbCiphertext, UInt32 cbCiphertext, Byte* pbAdditionalAuthenticatedData, UInt32 cbAdditionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.Cng.Internal.CngAuthenticatedEncryptorBase.Decrypt(ArraySegment`1 ciphertext, ArraySegment`1 additionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.UnprotectCore(Byte[] protectedData, Boolean allowOperationsOnRevokedKeys, UnprotectStatus& status)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.DangerousUnprotect(Byte[] protectedData, Boolean ignoreRevocationErrors, Boolean& requiresMigration, Boolean& wasRevoked)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.Unprotect(Byte[] protectedData)
+   at Microsoft.AspNetCore.Session.CookieProtection.Unprotect(IDataProtector protector, String protectedText, ILogger logger)
+2020-10-31 00:16:19,319 [16] WARN - Error unprotecting the session cookie.
+System.Security.Cryptography.CryptographicException: The payload was invalid.
+   at Microsoft.AspNetCore.DataProtection.Cng.CbcAuthenticatedEncryptor.DecryptImpl(Byte* pbCiphertext, UInt32 cbCiphertext, Byte* pbAdditionalAuthenticatedData, UInt32 cbAdditionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.Cng.Internal.CngAuthenticatedEncryptorBase.Decrypt(ArraySegment`1 ciphertext, ArraySegment`1 additionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.UnprotectCore(Byte[] protectedData, Boolean allowOperationsOnRevokedKeys, UnprotectStatus& status)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.DangerousUnprotect(Byte[] protectedData, Boolean ignoreRevocationErrors, Boolean& requiresMigration, Boolean& wasRevoked)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.Unprotect(Byte[] protectedData)
+   at Microsoft.AspNetCore.Session.CookieProtection.Unprotect(IDataProtector protector, String protectedText, ILogger logger)
+2020-10-31 09:15:30,998 [1] INFO - Now listening on: http://localhost:5000
+2020-10-31 09:15:31,080 [1] INFO - Now listening on: https://localhost:5001
+2020-10-31 09:15:31,081 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-10-31 09:15:31,083 [1] INFO - Hosting environment: Development
+2020-10-31 09:15:31,085 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-10-31 09:15:43,652 [9] INFO - Request results of GetListAsync success
+2020-10-31 09:15:49,059 [13] INFO - Request results of GetListAsync success
+2020-10-31 09:15:54,938 [16] INFO - Request results of GetListAsync success
+2020-10-31 09:29:41,896 [4] INFO - Request results of GetListAsync success
+2020-10-31 09:29:45,892 [10] INFO - Request results of GetListAsync success
+2020-10-31 11:28:00,065 [1] INFO - Now listening on: http://localhost:5000
+2020-10-31 11:28:00,076 [1] INFO - Now listening on: https://localhost:5001
+2020-10-31 11:28:00,079 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-10-31 11:28:00,081 [1] INFO - Hosting environment: Development
+2020-10-31 11:28:00,083 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-10-31 11:28:40,826 [4] INFO - Request results of GetListAsync success
+2020-10-31 11:29:14,862 [4] INFO - Request results of GetListAsync success
+2020-10-31 11:29:19,649 [9] INFO - Request results of GetListAsync success
+2020-10-31 11:57:55,932 [1] INFO - Now listening on: http://localhost:5000
+2020-10-31 11:57:55,940 [1] INFO - Now listening on: https://localhost:5001
+2020-10-31 11:57:55,942 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-10-31 11:57:55,944 [1] INFO - Hosting environment: Development
+2020-10-31 11:57:55,946 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-10-31 11:59:00,295 [14] INFO - Request results of GetListAsync success
+2020-10-31 12:01:06,921 [9] INFO - Request results of GetListAsync success
+2020-10-31 12:02:31,310 [4] INFO - Request results of GetListAsync success
+2020-10-31 12:02:50,035 [29] INFO - Request results of GetListAsync success
+2020-10-31 12:02:56,884 [29] INFO - Request results of GetListAsync success
+2020-10-31 12:05:28,364 [2] INFO - Application is shutting down...
+2020-10-31 14:09:04,755 [1] INFO - Now listening on: http://localhost:5000
+2020-10-31 14:09:04,804 [1] INFO - Now listening on: https://localhost:5001
+2020-10-31 14:09:04,807 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-10-31 14:09:04,815 [1] INFO - Hosting environment: Development
+2020-10-31 14:09:04,818 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-10-31 14:11:36,976 [1] INFO - Now listening on: http://localhost:5000
+2020-10-31 14:11:36,987 [1] INFO - Now listening on: https://localhost:5001
+2020-10-31 14:11:36,989 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-10-31 14:11:36,991 [1] INFO - Hosting environment: Development
+2020-10-31 14:11:36,993 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API

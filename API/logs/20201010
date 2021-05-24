@@ -1,0 +1,54 @@
+2020-10-10 09:10:00,706 [5] WARN - Role (null) validation failed: DuplicateRoleName.
+2020-10-10 09:10:00,730 [9] WARN - Role (null) validation failed: DuplicateRoleName.
+2020-10-10 09:10:00,734 [10] WARN - Role (null) validation failed: DuplicateRoleName.
+2020-10-10 09:10:01,104 [1] INFO - Now listening on: http://localhost:5000
+2020-10-10 09:10:01,105 [1] INFO - Now listening on: https://localhost:5001
+2020-10-10 09:10:01,107 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-10-10 09:10:01,109 [1] INFO - Hosting environment: Development
+2020-10-10 09:10:01,111 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-10-10 09:11:50,527 [4] INFO - Request results of GetListAsync success
+2020-10-10 09:12:04,187 [11] INFO - Running ListUserAsync function in UserAppService
+2020-10-10 09:12:04,260 [5] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-10-10 09:12:04,268 [5] INFO - Request results of ListUserAsync success
+2020-10-10 09:12:22,048 [13] INFO - ListRoleAsync function in RoleService completed successfully.
+2020-10-10 09:12:22,072 [14] INFO - GetById successfully in UserAppService with object 1.
+2020-10-10 09:12:22,082 [14] INFO - Request results of GetByIdAsync success
+2020-10-10 12:17:04,509 [10] WARN - Role (null) validation failed: DuplicateRoleName.
+2020-10-10 12:17:04,528 [4] WARN - Role (null) validation failed: DuplicateRoleName.
+2020-10-10 12:17:04,531 [4] WARN - Role (null) validation failed: DuplicateRoleName.
+2020-10-10 12:17:04,706 [1] INFO - Now listening on: http://localhost:5000
+2020-10-10 12:17:04,707 [1] INFO - Now listening on: https://localhost:5001
+2020-10-10 12:17:04,709 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-10-10 12:17:04,710 [1] INFO - Hosting environment: Development
+2020-10-10 12:17:04,712 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-10-10 12:19:36,327 [10] WARN - Role (null) validation failed: DuplicateRoleName.
+2020-10-10 12:19:36,346 [10] WARN - Role (null) validation failed: DuplicateRoleName.
+2020-10-10 12:19:36,351 [4] WARN - Role (null) validation failed: DuplicateRoleName.
+2020-10-10 12:19:36,520 [1] INFO - Now listening on: http://localhost:5000
+2020-10-10 12:19:36,522 [1] INFO - Now listening on: https://localhost:5001
+2020-10-10 12:19:36,524 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-10-10 12:19:36,525 [1] INFO - Hosting environment: Development
+2020-10-10 12:19:36,526 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-10-10 12:19:41,488 [8] INFO - Request results of GetListAsync success
+2020-10-10 12:28:52,562 [5] WARN - Role (null) validation failed: DuplicateRoleName.
+2020-10-10 12:28:52,581 [10] WARN - Role (null) validation failed: DuplicateRoleName.
+2020-10-10 12:28:52,584 [5] WARN - Role (null) validation failed: DuplicateRoleName.
+2020-10-10 12:28:52,759 [1] INFO - Now listening on: http://localhost:5000
+2020-10-10 12:28:52,760 [1] INFO - Now listening on: https://localhost:5001
+2020-10-10 12:28:52,762 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-10-10 12:28:52,763 [1] INFO - Hosting environment: Development
+2020-10-10 12:28:52,765 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-10-10 12:32:29,846 [10] INFO - Request results of GetListAsync success
+2020-10-10 12:40:16,640 [5] INFO - Request results of GetListAsync success
+2020-10-10 12:42:16,882 [11] INFO - Request results of GetListAsync success
+2020-10-10 12:45:01,370 [25] INFO - Request results of GetListAsync success
+2020-10-10 12:48:28,168 [9] WARN - Role (null) validation failed: DuplicateRoleName.
+2020-10-10 12:48:28,189 [9] WARN - Role (null) validation failed: DuplicateRoleName.
+2020-10-10 12:48:28,193 [11] WARN - Role (null) validation failed: DuplicateRoleName.
+2020-10-10 12:48:28,358 [1] INFO - Now listening on: http://localhost:5000
+2020-10-10 12:48:28,359 [1] INFO - Now listening on: https://localhost:5001
+2020-10-10 12:48:28,361 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-10-10 12:48:28,362 [1] INFO - Hosting environment: Development
+2020-10-10 12:48:28,364 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-10-10 12:48:35,753 [4] INFO - Request results of GetListAsync success
+2020-10-10 12:49:05,602 [4] INFO - Request results of GetListAsync success

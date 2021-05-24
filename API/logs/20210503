@@ -1,0 +1,34 @@
+2021-05-03 00:28:42,742 [1] INFO - Now listening on: https://localhost:5001
+2021-05-03 00:28:42,859 [1] INFO - Now listening on: http://localhost:5000
+2021-05-03 00:28:42,955 [1] INFO - Application started. Press Ctrl+C to shut down.
+2021-05-03 00:28:42,980 [1] INFO - Hosting environment: Development
+2021-05-03 00:28:43,001 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2021-05-03 00:33:37,235 [2] INFO - Application is shutting down...
+2021-05-03 07:56:35,886 [1] INFO - Now listening on: https://localhost:5001
+2021-05-03 07:56:35,901 [1] INFO - Now listening on: http://localhost:5000
+2021-05-03 07:56:35,905 [1] INFO - Application started. Press Ctrl+C to shut down.
+2021-05-03 07:56:35,908 [1] INFO - Hosting environment: Development
+2021-05-03 07:56:35,911 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2021-05-03 08:12:04,053 [22] INFO - Request results of GetListAsync success
+2021-05-03 08:20:31,343 [5] INFO - Request results of GetListAsync success
+2021-05-03 08:20:46,636 [22] INFO - Request results of GetListAsync success
+2021-05-03 08:50:17,347 [35] INFO - Request results of GetListAsync success
+2021-05-03 09:21:06,281 [1] INFO - Now listening on: https://0.0.0.0:5001
+2021-05-03 09:21:06,302 [1] INFO - Now listening on: http://0.0.0.0:5000
+2021-05-03 09:21:06,308 [1] INFO - Application started. Press Ctrl+C to shut down.
+2021-05-03 09:21:06,312 [1] INFO - Hosting environment: Development
+2021-05-03 09:21:06,315 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2021-05-03 09:21:54,081 [5] INFO - Request results of GetListAsync success
+2021-05-03 09:24:03,566 [5] INFO - Request results of GetListAsync success
+2021-05-03 09:26:38,278 [1] INFO - Now listening on: http://0.0.0.0:5001
+2021-05-03 09:26:38,297 [1] INFO - Now listening on: http://0.0.0.0:5000
+2021-05-03 09:26:38,300 [1] INFO - Application started. Press Ctrl+C to shut down.
+2021-05-03 09:26:38,303 [1] INFO - Hosting environment: Development
+2021-05-03 09:26:38,306 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2021-05-03 09:26:49,392 [4] WARN - Failed to determine the https port for redirect.
+2021-05-03 09:26:49,744 [4] WARN - Failed to determine the https port for redirect.
+2021-05-03 09:26:58,861 [4] INFO - Request results of GetListAsync success
+2021-05-03 09:27:20,794 [19] INFO - Request results of GetListAsync success
+2021-05-03 09:28:29,451 [18] INFO - Request results of GetListAsync success
+2021-05-03 09:28:55,371 [19] INFO - Request results of GetListAsync success
+2021-05-03 09:29:08,942 [19] INFO - Request results of GetListAsync success

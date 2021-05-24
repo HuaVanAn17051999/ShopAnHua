@@ -1,0 +1,10 @@
+2021-05-01 23:39:25,471 [1] INFO - Now listening on: https://localhost:5001
+2021-05-01 23:39:26,423 [1] INFO - Now listening on: http://localhost:5000
+2021-05-01 23:39:26,442 [1] INFO - Application started. Press Ctrl+C to shut down.
+2021-05-01 23:39:26,463 [1] INFO - Hosting environment: Development
+2021-05-01 23:39:26,530 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2021-05-01 23:55:12,722 [1] INFO - Now listening on: https://localhost:5001
+2021-05-01 23:55:12,764 [1] INFO - Now listening on: http://localhost:5000
+2021-05-01 23:55:12,795 [1] INFO - Application started. Press Ctrl+C to shut down.
+2021-05-01 23:55:12,823 [1] INFO - Hosting environment: Development
+2021-05-01 23:55:13,565 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API

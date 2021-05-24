@@ -1,0 +1,14 @@
+2020-10-30 14:02:58,863 [1] INFO - Now listening on: http://localhost:5000
+2020-10-30 14:02:58,880 [1] INFO - Now listening on: https://localhost:5001
+2020-10-30 14:02:58,885 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-10-30 14:02:58,888 [1] INFO - Hosting environment: Development
+2020-10-30 14:02:58,891 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-10-30 14:06:22,044 [14] INFO - Request results of GetListAsync success
+2020-10-30 14:06:34,432 [11] INFO - Request results of GetListAsync success
+2020-10-30 23:59:10,014 [1] INFO - Now listening on: http://localhost:5000
+2020-10-30 23:59:10,023 [1] INFO - Now listening on: https://localhost:5001
+2020-10-30 23:59:10,025 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-10-30 23:59:10,056 [1] INFO - Hosting environment: Development
+2020-10-30 23:59:10,059 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-10-30 23:59:14,586 [8] INFO - Request results of GetListAsync success
+2020-10-30 23:59:22,376 [10] INFO - Request results of GetListAsync success

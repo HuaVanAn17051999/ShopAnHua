@@ -1,0 +1,37 @@
+2020-10-18 21:23:31,972 [1] INFO - Now listening on: http://localhost:5000
+2020-10-18 21:23:31,983 [1] INFO - Now listening on: https://localhost:5001
+2020-10-18 21:23:31,985 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-10-18 21:23:31,987 [1] INFO - Hosting environment: Development
+2020-10-18 21:23:31,988 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-10-18 21:24:05,034 [4] INFO - Request results of GetListAsync success
+2020-10-18 21:26:47,784 [12] INFO - Request results of GetListAsync success
+2020-10-18 21:29:42,296 [4] INFO - Request results of GetListAsync success
+2020-10-18 21:30:09,173 [9] INFO - Request results of GetListAsync success
+2020-10-18 21:34:24,545 [15] INFO - Request results of GetListAsync success
+2020-10-18 21:35:56,624 [10] INFO - Request results of GetListAsync success
+2020-10-18 21:36:01,864 [10] INFO - Request results of GetListAsync success
+2020-10-18 21:36:25,813 [9] INFO - Request results of GetListAsync success
+2020-10-18 21:37:31,592 [24] INFO - Request results of GetListAsync success
+2020-10-18 21:37:49,378 [28] INFO - Request results of GetListAsync success
+2020-10-18 21:38:02,174 [28] INFO - Request results of GetListAsync success
+2020-10-18 21:43:23,602 [10] INFO - Request results of GetListAsync success
+2020-10-18 21:44:25,595 [9] INFO - Request results of GetListAsync success
+2020-10-18 21:45:00,117 [9] INFO - Request results of GetListAsync success
+2020-10-18 21:45:24,941 [38] INFO - Request results of GetListAsync success
+2020-10-18 21:46:22,762 [24] INFO - Request results of GetListAsync success
+2020-10-18 21:46:27,625 [38] INFO - Request results of GetListAsync success
+2020-10-18 21:47:24,478 [9] INFO - Request results of GetListAsync success
+2020-10-18 21:47:46,240 [38] INFO - Request results of GetListAsync success
+2020-10-18 21:47:52,826 [16] INFO - Request results of GetListAsync success
+2020-10-18 21:51:23,506 [4] INFO - Request results of GetListAsync success
+2020-10-18 21:51:34,351 [24] INFO - Request results of GetListAsync success
+2020-10-18 21:53:36,383 [38] INFO - Request results of GetListAsync success
+2020-10-18 21:54:20,740 [25] WARN - Invalid password for user 5.
+2020-10-18 21:55:32,381 [41] INFO - Request results of GetListAsync success
+2020-10-18 21:55:47,035 [25] INFO - Request results of GetListAsync success
+2020-10-18 21:56:10,203 [25] INFO - Request results of GetListAsync success
+2020-10-18 21:56:27,655 [48] INFO - Request results of GetListAsync success
+2020-10-18 21:56:33,162 [50] INFO - Request results of GetListAsync success
+2020-10-18 21:56:44,455 [25] INFO - Request results of GetListAsync success
+2020-10-18 21:56:58,134 [22] INFO - Request results of GetListAsync success
+2020-10-18 22:02:55,636 [55] INFO - Request results of GetListAsync success

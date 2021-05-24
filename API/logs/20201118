@@ -1,0 +1,162 @@
+2020-11-18 19:28:44,329 [1] INFO - Now listening on: https://localhost:5001
+2020-11-18 19:28:44,340 [1] INFO - Now listening on: http://localhost:5000
+2020-11-18 19:28:44,342 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-11-18 19:28:44,344 [1] INFO - Hosting environment: Development
+2020-11-18 19:28:44,346 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-11-18 19:30:35,272 [9] WARN - Invalid password for user 5.
+2020-11-18 19:30:39,080 [16] WARN - Invalid password for user 5.
+2020-11-18 19:30:47,168 [16] INFO - Request results of GetListAsync success
+2020-11-18 19:30:51,870 [16] INFO - Request results of GetListAsync success
+2020-11-18 19:31:06,047 [16] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 19:31:06,122 [17] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 19:31:06,128 [17] INFO - Request results of ListUserAsync success
+2020-11-18 19:31:12,532 [9] INFO - Request results of GetListAsync success
+2020-11-18 20:17:27,879 [1] INFO - Now listening on: https://localhost:5001
+2020-11-18 20:17:27,948 [1] INFO - Now listening on: http://localhost:5000
+2020-11-18 20:17:27,979 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-11-18 20:17:27,982 [1] INFO - Hosting environment: Development
+2020-11-18 20:17:28,044 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-11-18 20:17:37,093 [11] INFO - Request results of GetListAsync success
+2020-11-18 20:19:56,851 [12] INFO - Request results of GetListAsync success
+2020-11-18 20:20:19,300 [9] INFO - Request results of GetListAsync success
+2020-11-18 20:21:09,150 [12] INFO - Request results of GetListAsync success
+2020-11-18 20:22:17,394 [11] INFO - Request results of GetListAsync success
+2020-11-18 20:22:25,183 [15] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 20:22:25,310 [10] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 20:22:25,316 [10] INFO - Request results of ListUserAsync success
+2020-11-18 20:22:42,301 [12] INFO - Request results of GetListAsync success
+2020-11-18 20:22:57,121 [31] INFO - Request results of GetListAsync success
+2020-11-18 20:24:33,888 [13] INFO - Request results of GetListAsync success
+2020-11-18 20:25:20,888 [12] INFO - Request results of GetListAsync success
+2020-11-18 20:25:35,120 [12] INFO - Request results of GetListAsync success
+2020-11-18 20:25:59,549 [28] INFO - Request results of GetListAsync success
+2020-11-18 20:26:25,148 [24] INFO - Request results of GetListAsync success
+2020-11-18 20:26:37,462 [29] INFO - Request results of GetListAsync success
+2020-11-18 21:42:47,874 [1] INFO - Now listening on: https://localhost:5001
+2020-11-18 21:42:47,884 [1] INFO - Now listening on: http://localhost:5000
+2020-11-18 21:42:47,886 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-11-18 21:42:47,888 [1] INFO - Hosting environment: Development
+2020-11-18 21:42:47,889 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-11-18 21:42:54,682 [14] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 21:42:55,180 [9] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 21:42:55,186 [9] INFO - Request results of ListUserAsync success
+2020-11-18 21:42:55,247 [4] INFO - Request results of GetListAsync success
+2020-11-18 21:47:04,566 [5] INFO - Request results of GetListAsync success
+2020-11-18 21:47:04,654 [4] INFO - Request results of GetListAsync success
+2020-11-18 21:47:04,682 [4] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 21:47:04,703 [10] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 21:47:04,713 [10] INFO - Request results of ListUserAsync success
+2020-11-18 21:47:40,299 [9] INFO - Request results of GetListAsync success
+2020-11-18 21:47:40,414 [14] INFO - Request results of GetListAsync success
+2020-11-18 21:47:40,427 [5] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 21:47:40,445 [10] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 21:47:40,454 [10] INFO - Request results of ListUserAsync success
+2020-11-18 21:47:53,369 [22] INFO - Request results of GetListAsync success
+2020-11-18 21:47:53,397 [9] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 21:47:53,407 [9] INFO - Request results of ListUserAsync success
+2020-11-18 21:48:17,196 [23] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 21:48:17,244 [5] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 21:48:17,273 [21] INFO - Request results of GetListAsync success
+2020-11-18 21:48:17,337 [5] INFO - Request results of GetListAsync success
+2020-11-18 21:49:07,584 [24] INFO - Request results of GetListAsync success
+2020-11-18 21:49:07,624 [21] INFO - Request results of GetListAsync success
+2020-11-18 21:49:07,650 [21] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 21:49:07,670 [22] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 21:49:07,680 [22] INFO - Request results of ListUserAsync success
+2020-11-18 21:49:47,131 [22] INFO - Request results of GetListAsync success
+2020-11-18 21:49:47,160 [9] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 21:49:47,172 [9] INFO - Request results of ListUserAsync success
+2020-11-18 21:49:47,395 [21] INFO - Request results of GetListAsync success
+2020-11-18 21:49:57,184 [5] INFO - Request results of GetListAsync success
+2020-11-18 21:49:57,198 [25] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 21:49:57,217 [25] INFO - Request results of ListUserAsync success
+2020-11-18 21:49:57,407 [21] INFO - Request results of GetListAsync success
+2020-11-18 21:50:33,291 [14] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 21:50:33,384 [9] INFO - Request results of GetListAsync success
+2020-11-18 21:50:33,401 [14] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 21:50:33,414 [14] INFO - Request results of ListUserAsync success
+2020-11-18 21:50:33,580 [9] INFO - Request results of GetListAsync success
+2020-11-18 21:51:54,506 [9] INFO - Request results of GetListAsync success
+2020-11-18 21:51:54,555 [23] INFO - Request results of GetListAsync success
+2020-11-18 21:51:54,570 [30] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 21:51:54,612 [22] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 21:51:54,623 [22] INFO - Request results of ListUserAsync success
+2020-11-18 21:52:00,166 [25] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 21:52:00,181 [25] INFO - Request results of ListUserAsync success
+2020-11-18 21:52:00,491 [14] INFO - Request results of GetListAsync success
+2020-11-18 21:55:52,565 [21] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 21:55:52,596 [30] INFO - Request results of GetListAsync success
+2020-11-18 21:55:52,644 [14] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 21:55:52,663 [23] INFO - Request results of GetListAsync success
+2020-11-18 21:56:11,632 [30] INFO - Request results of GetListAsync success
+2020-11-18 22:02:17,962 [1] INFO - Now listening on: https://localhost:5001
+2020-11-18 22:02:17,971 [1] INFO - Now listening on: http://localhost:5000
+2020-11-18 22:02:17,973 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-11-18 22:02:17,974 [1] INFO - Hosting environment: Development
+2020-11-18 22:02:17,976 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-11-18 22:02:23,860 [17] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 22:02:24,380 [12] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 22:02:24,387 [12] INFO - Request results of ListUserAsync success
+2020-11-18 22:02:24,449 [8] INFO - Request results of GetListAsync success
+2020-11-18 22:02:30,443 [8] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 22:02:30,479 [16] INFO - Request results of GetListAsync success
+2020-11-18 22:02:38,018 [10] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 22:02:38,052 [9] INFO - Request results of GetListAsync success
+2020-11-18 22:04:08,146 [12] INFO - Request results of GetListAsync success
+2020-11-18 22:04:08,171 [10] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 22:04:08,181 [10] INFO - Request results of ListUserAsync success
+2020-11-18 22:15:50,715 [1] INFO - Now listening on: https://localhost:5001
+2020-11-18 22:15:50,725 [1] INFO - Now listening on: http://localhost:5000
+2020-11-18 22:15:50,727 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-11-18 22:15:50,729 [1] INFO - Hosting environment: Development
+2020-11-18 22:15:50,730 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-11-18 22:15:59,718 [4] INFO - Request results of GetListAsync success
+2020-11-18 22:16:06,496 [15] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 22:16:06,581 [15] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 22:16:06,588 [15] INFO - Request results of ListUserAsync success
+2020-11-18 22:16:08,972 [10] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 22:16:09,013 [13] INFO - Request results of GetListAsync success
+2020-11-18 22:23:23,899 [14] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 22:23:23,947 [12] INFO - Request results of GetListAsync success
+2020-11-18 22:23:29,688 [10] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 22:23:29,720 [4] INFO - Request results of GetListAsync success
+2020-11-18 22:45:08,421 [1] INFO - Now listening on: https://localhost:5001
+2020-11-18 22:45:08,430 [1] INFO - Now listening on: http://localhost:5000
+2020-11-18 22:45:08,432 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-11-18 22:45:08,433 [1] INFO - Hosting environment: Development
+2020-11-18 22:45:08,435 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-11-18 22:45:23,718 [8] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 22:45:24,213 [10] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 22:45:24,220 [10] INFO - Request results of ListUserAsync success
+2020-11-18 22:45:24,274 [16] INFO - Request results of GetListAsync success
+2020-11-18 22:45:38,035 [10] INFO - Request results of GetListAsync success
+2020-11-18 22:45:50,039 [8] INFO - Request results of GetListAsync success
+2020-11-18 22:46:26,367 [9] INFO - Request results of GetListAsync success
+2020-11-18 22:46:46,004 [16] INFO - Request results of GetListAsync success
+2020-11-18 22:46:53,242 [11] INFO - Running ListUserAsync function in UserAppService
+2020-11-18 22:46:53,259 [12] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 22:46:53,272 [12] INFO - Request results of ListUserAsync success
+2020-11-18 22:47:09,924 [8] INFO - Request results of GetListAsync success
+2020-11-18 22:47:09,939 [14] INFO - ListUserAsync function in UserAppService completed successfully.
+2020-11-18 22:47:09,952 [14] INFO - Request results of ListUserAsync success
+2020-11-18 22:50:46,598 [1] INFO - Now listening on: https://localhost:5001
+2020-11-18 22:50:46,607 [1] INFO - Now listening on: http://localhost:5000
+2020-11-18 22:50:46,609 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-11-18 22:50:46,610 [1] INFO - Hosting environment: Development
+2020-11-18 22:50:46,612 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-11-18 22:52:16,483 [4] INFO - Request results of GetListAsync success
+2020-11-18 22:52:26,905 [11] INFO - Request results of GetListAsync success
+2020-11-18 22:52:31,049 [4] INFO - Request results of GetListAsync success
+2020-11-18 22:54:43,384 [1] INFO - Now listening on: https://localhost:5001
+2020-11-18 22:54:43,393 [1] INFO - Now listening on: http://localhost:5000
+2020-11-18 22:54:43,395 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-11-18 22:54:43,396 [1] INFO - Hosting environment: Development
+2020-11-18 22:54:43,398 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
+2020-11-18 22:55:17,510 [4] INFO - Request results of GetListAsync success
+2020-11-18 22:58:39,059 [5] INFO - Request results of GetListAsync success
+2020-11-18 22:58:56,217 [4] INFO - Request results of GetListAsync success
+2020-11-18 23:24:02,626 [1] INFO - Now listening on: https://localhost:5001
+2020-11-18 23:24:02,641 [1] INFO - Now listening on: http://localhost:5000
+2020-11-18 23:24:02,645 [1] INFO - Application started. Press Ctrl+C to shut down.
+2020-11-18 23:24:02,647 [1] INFO - Hosting environment: Development
+2020-11-18 23:24:02,649 [1] INFO - Content root path: E:\.NET_CORE\ShopAnHua\API
